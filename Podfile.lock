@@ -1,0 +1,20 @@
+PODS:
+  - BaseAPI (0.1.12)
+  - GithubAPI (0.0.6):
+    - BaseAPI
+
+DEPENDENCIES:
+  - GithubAPI
+
+SPEC REPOS:
+  trunk:
+    - BaseAPI
+    - GithubAPI
+
+SPEC CHECKSUMS:
+  BaseAPI: 84c9b49d75b8be1e9d7facd66bd14082eee499e4
+  GithubAPI: bc5bfd90489f5138a8d1e00003b18abe31579eb0
+
+PODFILE CHECKSUM: 62748f607917c12ed102007647e760daa5880413
+
+COCOAPODS: 1.10.2
